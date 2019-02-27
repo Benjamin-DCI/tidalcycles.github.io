@@ -1,7 +1,7 @@
 tidalcycles.github.io
 =====================
 
-Website for Tidal
+Website for TidalCycles
 
 See the actual website here: [http://tidal.lurk.org](http://tidal.lurk.org).
 
